@@ -7,3 +7,5 @@ STATUS -->  https://github.com/fabrobher/Status-Exameen
 SORTBYPRICE --> https://github.com/fabrobher/SortBy-Examen
 
 ECONOMICO --> https://github.com/fabrobher/Economico-Examen
+
+NUEVA CATEGORIA --> https://github.com/fabrobher/New-Category--Exam
