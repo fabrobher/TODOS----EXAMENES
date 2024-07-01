@@ -2,13 +2,17 @@
 
 PROMOTED-1--> https://github.com/fabrobher/Promocion-Examen
 
-PROMOTED-2 --> https://github.com/fabrobher/Promotion-EXAMEN
+# PROMOTED-2 --> https://github.com/fabrobher/Promotion-EXAMEN
 
 STATUS -->  https://github.com/fabrobher/Status-Exameen
 
 SORTBYPRICE --> https://github.com/fabrobher/SortBy-Examen
 
+# SORTBYPRICE- 2 --> https://github.com/fabrobher/SortBYPRICW--EXAMEN
+
 ECONOMICO --> https://github.com/fabrobher/Economico-Examen
+
+# ECONOMICO- 2--> https://github.com/fabrobher/ECONOMIC2--Examen
 
 NUTRIENTES --> https://github.com/fabrobher/Nutrientes-Examen
 
