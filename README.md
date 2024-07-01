@@ -22,3 +22,5 @@ NUEVA CATEGORIA --> https://github.com/fabrobher/New-Category--Exam
 
 -- DESCUENTOSCODE --> https://github.com/fabrobher/DESC---EXAMEN
 
+-- PromotedProduct --> https://github.com/fabrobher/ProductoPromocionado---Examen
+
