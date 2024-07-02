@@ -3,6 +3,8 @@
 
 -- DESCUENTOSPORCENTAJE --> https://github.com/fabrobher/Descuentos-Examen
 
+-- PINNEDRESTAURANTS --> https://github.com/fabrobher/PinnedRestaurants--Examen
+
 -- PROMOTED-2 --> https://github.com/fabrobher/Promotion-EXAMEN
 
 -- PromotedProduct --> https://github.com/fabrobher/ProductoPromocionado---Examen
